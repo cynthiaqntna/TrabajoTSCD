@@ -1,0 +1,14 @@
+{
+  "Records": [
+    {
+      "s3": {
+        "bucket": {
+          "name": "git-radar-codefiles"
+        },
+        "object": {
+          "key": "Ejemplar.java"
+        }
+      }
+    }
+  ]
+}

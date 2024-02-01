@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TrabajoFinalTSCD:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TrabajoFinalTSCD_jar</output-path>
+    <root id="archive" name="TrabajoFinalTSCD.jar">
+      <element id="module-output" name="TrabajoFinalTSCD" />
+    </root>
+  </artifact>
+</component>

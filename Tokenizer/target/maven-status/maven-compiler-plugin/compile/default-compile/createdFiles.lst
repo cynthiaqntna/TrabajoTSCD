@@ -1,0 +1,9 @@
+JavaTokenizer.class
+TokenizerFactory.class
+NullTokenizer.class
+LambdaRequest.class
+LambdaResponse.class
+Tokenizer.class
+PythonTokenizer.class
+database\DynamoDBClient.class
+TokenizerLambdaHandler.class
